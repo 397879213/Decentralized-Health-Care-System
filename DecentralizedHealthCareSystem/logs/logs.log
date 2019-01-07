@@ -1,0 +1,47 @@
+2018-12-08 00:42:12,323 INFO (main) [com.dhcs.userinterface.MainJFrame] - ------------------Inside MainJFrame--------------------
+2018-12-08 00:42:24,804 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:42:28,673 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:49:08,054 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:49:16,794 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:49:16,862 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.LabAssistantRole
+2018-12-08 00:50:13,057 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.labassistant.LabAssistantWorkAreaJPanel] - Lab Receiver:labsai
+2018-12-08 00:50:35,992 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.labassistant.LabAssistantWorkAreaJPanel] - Lab Receiver:labsai
+2018-12-08 00:51:26,885 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:51:47,673 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:51:47,692 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.AmbulanceRole
+2018-12-08 00:51:53,250 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.ambulancestaff.RequestHospitalJPanel] - Speaciality of Doctor selected:Anesthesiologists 
+2018-12-08 00:53:03,427 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:53:12,187 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:53:12,269 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.HospitalRole
+2018-12-08 00:53:15,262 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.administrative.HospitalWorkAreaJPanel] - Request placed in a queue and awaiting for doctor to accept it.
+2018-12-08 00:53:17,923 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:53:23,356 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:53:23,406 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.DoctorRole
+2018-12-08 00:53:25,098 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:53:32,236 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:53:32,248 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.DoctorRole
+2018-12-08 00:53:35,042 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:53:51,296 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:53:51,331 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.AdminRole
+2018-12-08 00:54:00,196 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.administrative.ManageDoctorJPanel] - User Name:com.dhcs.business.employee.EmployeeDirectory@aaa3d58
+2018-12-08 00:54:03,169 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.role.administrative.ManageDoctorJPanel] - User Name already exists
+2018-12-08 00:54:32,493 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:54:48,654 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:54:48,664 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.HospitalRole
+2018-12-08 00:54:56,368 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-08 00:55:04,221 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:55:05,688 ERROR (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User credentials mismatched
+2018-12-08 00:55:13,416 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-08 00:55:13,421 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.AdminRole
+2018-12-08 00:55:16,360 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.role.administrative.ManageDoctorJPanel] - User Name already exists
+2018-12-09 21:27:05,706 INFO (main) [com.dhcs.userinterface.MainJFrame] - ------------------Inside MainJFrame--------------------
+2018-12-09 21:27:30,234 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-09 21:27:30,398 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.systemadminworkarea.SystemAdminWorkAreaJPanel] - Network List:[Boston]
+2018-12-09 21:27:30,413 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.SystemAdminRole
+2018-12-09 21:27:34,092 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-09 21:27:42,596 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-09 21:27:42,714 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.AdminRole
+2018-12-09 21:28:01,484 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged out
+2018-12-09 21:28:10,697 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - Logged in from Ecosystem Admin Screen
+2018-12-09 21:28:10,815 DEBUG (AWT-EventQueue-0) [com.dhcs.userinterface.MainJFrame] - User successfully logged in, user role: {}com.dhcs.business.role.LabAssistantRole
+2018-12-09 21:28:18,588 INFO (AWT-EventQueue-0) [com.dhcs.userinterface.role.labassistant.LabAssistantWorkAreaJPanel] - Lab Receiver:blab

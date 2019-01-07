@@ -1,0 +1,8 @@
+*.class
+*.out
+build/*
+*.db4o
+*.txt
+/nbproject/project.properties
+*.jars
+/build
